@@ -1,11 +1,20 @@
-### Welcome to GitHub Pages.
-This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here [using GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), select a template crafted by a designer, and publish. After your page is generated, you can check out the new `gh-pages` branch locally. If you’re using GitHub Desktop, simply sync your repository and you’ll see the new branch.
 
-### Designer Templates
-We’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.
+###您所访问的域名可以转让出售或合作
 
-### Creating pages manually
-If you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.
+The great domain is for sale!
+
+好域名只为有经济实力和战略眼光的企业保留！
+
+当您访问这个域名的时候，已经有更多的人曾经来过这里，互联网时代，流量就是财富，品牌就是王道，
+
+###唯一性更是超越域名本身的更高价值！
+
+##提醒：诚心购买域名请联系 QQ：8642858
+
+###由于询价众多，为了提高成交率和效率，请买家主动提供报价，我们会在第一时间给您回复！
+更多域名请与持有者咨询
+
+
 
 ### Authors and Contributors
 You can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
